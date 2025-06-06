@@ -1,5 +1,5 @@
 # 🔢 Roman Numeral Converter
-A simple web-based tool to convert numbers between Arabic numerals (1–3999) and Roman numerals (I–MMMCMXCIX). Built with HTML, CSS, and JavaScript.
+A simple web-based tool to convert numbers between Arabic numerals (1–3999) and Roman numerals (I–MMMCMXCIX).
 
 ## 🚀 Live Demo
 🔗 [View Live Demo](https://eymiescarlet.github.io/roman-numeral/)

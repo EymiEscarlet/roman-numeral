@@ -8,6 +8,6 @@ A simple web-based tool to convert numbers between Arabic numerals (1–3999) an
 HTML5, CSS3, JavaScript
 
 ## 💡 Features
-Convert Arabic numbers to Roman numerals
-Input validation with user-friendly error messages
-Responsive layout and clean design
+- Convert Arabic numbers to Roman numerals
+- Input validation with user-friendly error messages
+- Responsive layout and clean design

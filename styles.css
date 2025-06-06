@@ -1,0 +1,56 @@
+
+:root{
+  --color1: #f9f9f9;
+  --color2: #F5D3DD;
+  --color3: #e42278;
+}
+body {
+  background: linear-gradient(270deg,var(--color1), var(--color2));
+  margin: auto;
+  padding-top: 100px;
+  width: 350px;
+}
+h1 {
+  color: var(--color3);
+  font-size: 2.3em;
+  text-align:center;
+}
+.container {
+  margin-top: 10px;
+ border: 5px solid #0d111a;
+  background: var(--color1);
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+ align-items:center;
+ text-align:center;
+  gap: 10px
+}
+input , label, #output, button{
+  font-size: 1.5em; 
+}
+
+input {
+  border: none;
+  border-bottom: 2px solid var(--color2);
+  background: linear-gradient(0deg,var(--color1), var(--color2));
+  padding: 5px
+}
+
+button{
+  width: 100%;
+  background-color: var(--color3);
+  border: none;
+  color: var(--color1);
+  padding: 5px;
+}
+
+.hide {
+  display: none;
+}
+.red {
+  background-color: 
+#ffcdd2;
+  border-color: #f44336;
+  color: #f44336;
+}
